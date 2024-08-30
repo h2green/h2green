@@ -1,4 +1,4 @@
-<p align="center"><a href="https://hits.sh/github.com/h2green/hits/"><img alt="https://github.com/h2green" src="https://hits.sh/github.com/h2green/hits.svg?style=plastic&label=bitches&color=6f756f&logo=coffeescript"/></a></p>
+<p align="center"><a href="https://hits.sh/github.com/h2green/hits/"><img alt="https://github.com/h2green" src="https://hits.sh/github.com/h2green/hits.svg?style=plastic&label=stars&color=6f756f&logo=coffeescript"/></a></p>
 <p align="center">⋆⁺₊⋆ ☁︎ ⋆｡ﾟ ☾ ﾟ⭒<br>
     ⋆｡ﾟ <img height="15" src="https://cdn.discordapp.com/emojis/1128322098645967019.gif?size=96&quality=lossless" alt="https://github.com/h2green"> ｡⋆｡ ﾟ☪︎ ﾟ｡⋆<br>
     ⋆⁺｡ﾟ☁︎⭒ ｡⋆⁺₊⋆ ☁︎ ⋆｡ﾟ</p>
