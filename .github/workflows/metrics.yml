@@ -6,14 +6,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Spotify
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:  
-          filename: spotify.svg
-          token: ${{ secrets.SPOTIFY_CLIENT_ID }}", "${{ secrets.SPOTIFY_CLIENT_SECRET }}", "${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          plugin_music_mode: playlist
-          plugin_music_playlist: '<iframe src="https://open.spotify.com/embed/playlist/6GMAR5DlthyLf1QNmSr6Kp?utm_source=generator" width = "" height = "" frameBorder = "0" allowfullscreen = "" allow = "" ></iframe>'
+      # - name: Spotify
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@latest
+      #   with:  
+      #     filename: spotify.svg
+      #     token: ${{ secrets.SPOTIFY_CLIENT_ID }}", "${{ secrets.SPOTIFY_CLIENT_SECRET }}", "${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      #     plugin_music_mode: playlist
       - name: Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -24,12 +23,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-      - name: Fortune
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: fortune.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_fortune: yes   
-          
+          plugin_fortune: yes 
