@@ -17,3 +17,26 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:  
+          token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          plugin_music_mode: playlist
+          plugin_music_playlist: '<iframe src="https://open.spotify.com/embed/playlist/6GMAR5DlthyLf1QNmSr6Kp?utm_source=generator" width = "" height = "" frameBorder = "0" allowfullscreen = "" allow = "" ></iframe>'
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.fortune.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_fortune: yes   
+          
