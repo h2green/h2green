@@ -19,6 +19,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
