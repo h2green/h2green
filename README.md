@@ -1,3 +1,4 @@
+<p align="center">ฅ^•ﻌ•^ฅ</p>
 <p align="center"><a href="https://hits.sh/github.com/h2green/hits/"><img alt="https://github.com/h2green" src="https://hits.sh/github.com/h2green.svg?style=plastic&label=stars&color=B39DDB&labelColor=4A148C&logo=subaru"/></a></p>
 <p align="center">⋆⁺₊⋆ ☁︎ ⋆｡ﾟ ☾ ﾟ⭒<br>
     ⋆｡ﾟ <img height="15" src="https://cdn.discordapp.com/emojis/1128322098645967019.gif?size=96&quality=lossless" alt="https://github.com/h2green"> ｡⋆｡ ﾟ☪︎ ﾟ｡⋆<br>
