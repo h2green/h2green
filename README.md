@@ -18,6 +18,3 @@
 <img height="200" width="300" style="margin-left: 10px;" src="https://skillicons.dev/icons?i=nodejs,react,ts,laravel,symfony,php,mysql,postgres,postman,apache,nginx,heroku,kubernetes,docker,vim&perline=3" alt="https://github.com/h2green">
 <br>
 <img src="https://streak-stats.demolab.com/?user=h2green&theme=jolly&hide_border=true&exclude_days=Tue%2CThu&card_width=600&card_height=200&background=00000000" alt="https://github.com/h2green"/>
-<h4 align="center"> Roadmap Progress 📼 <details open=""> <summary></summary>
-    
-<a href="https://roadmap.sh/u/h2green"><img src="https://roadmap.sh/card/wide/66cfd98c86ab8b2c17737dee?variant=dark" alt="https://roadmap.sh/u/h2green"/></a></details>
